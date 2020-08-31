@@ -1,0 +1,87 @@
+correction de l'ex 58 p 211:
+A=(Cos((alph))+sin((alph)))²+(cos((alph))-sin((alph)))²
+A=(cos((alph)))²+[barrer 2*cos((alph))*sin((alph))]+(sin((alph)))²
+(Cos((alph)))²-[barré 2*Cos((alph))*sin((alph))]+(sin((alph)))²
+A=cos²((alph))+sin²((alph))(r)+cos²((alph))+sin²((alph))
+A=1+1
+A=2(/r)
+correction de l'ex 56 p 211:
+Cos(9(pi)/5)=1+(ract)(5)/4
+Calculer sin (9(pi)/5
+Cos²(9(pi)/5)+sin²(9(pi)/5)=1
+(r) <=> sin²(9(pi)/5)=1-(1+(rac)(5)/4)²
+<=> sin²(9(pi)/5)=1-(1+(rac)(5))²/16
+                 =16/16 - (1+2(rac)(5)+(rac)(5)²)/16
+                 =16/16 - (1+2(rac)(5)+5)/16
+sin²(9(pi)/5)=16-6-2(rac)(5)/16
+             =10-2(rac)(5)/16 = 2(5-(rac)(5))/2*8
+sin²(9(pi)/5)=5-(rac)(5)/8
+<=>sin(9(pi)/5=(rac)(5-(rac)(5)/8) ou -(rac)(5(rac)(5)/8)
+              =(rac)(5-(rac)(5))/(rac)(8)
+              =(rac)(5-(rac)(5))/2(rac)(2)
+
+correction de l'ex 57 p 211:
+sin((pi)/8=1/2(rac)(2-(rac)(2))
+1)
+Cos²((pi)/8)+sin²((pi)/8)=1
+<=> Cos²((pi)/8)=1-sin&²((pi)/8)
+<=> Cos²((pi)/8)=1-[1/2(rac)(2-(rac)(2))]²
+<=> cos²((pi)/8)=1-1/4*(2-(rac)(2))
+                =1-(2-(rac)(2))/4
+                =4/4-(2(rac)(2))/4
+                =4-2+(rac)(2)/4=2+(rac)(2)/4
+Cos((pi)/8)=(rac)(2+(rac)(2)/4)=(rac)(2+(rac)(2))/2 ou cos((pi)/8)=-(rac)(2+(rac)(2))/2
+au>u0, x²=a <=> x (rac)(a) ou x=-(rac)(a), (rac)(a/b)=(rac)(a)/(rac)(b) avec au>u0 et b>0
+
+b)
+Cos(7(pi)/8)=Cos(8(pi)-(pi)/8)
+            =Cos(8(pi)/8 -(pi)/8)
+            =Cos((pi)-(pi)/8)
+            =-Cos((pi)/8)
+            =-(rac)(2+(rac)(2))/2 ou + (rac)(2+(rac)(2))/2 (/r)
+Si Cos((alph))=-1/5
+(alph)=arcos(-1/5)
+(alph)=Cos[(ctrl+maj+ +)-1](-1/5)
+(alph)(~)101,5°
+I=[(pi);2(pi)]
+Exercice:
+a) simplifier A et B:
+A=Cos(x+(pi))-Cos(-x)+2Cos((pi)-x)
+(r)A=-Cos(x)=-(cos(x))+2*(-Cos(x))
+A=-Cos(x)-Cos(x)-2cos(x)
+A=-4Cos(x)
+B=Sin(x+(pi)/2)-3sin((pi)/2 -x)+5Cos(2048(pi)+x)
+B=Cos((pi))-3Cos(x)+5Cos(x) 
+2048(pi)=2(pi)*1024
+Cos(2048(pi)+x)=Cos(2(pi)*1024+x)
+                          }}}}
+                            k
+               =Cos(2(pi)k+x)
+               =Cos(x)
+donc B=3cos(x).
+
+b) Montrer que:
+sin((pi)/8)-sin(3(pi)/8)+sin(5(pi)/8)-sin(7(pi)/8)=0
+(r)
+3(pi)/8= (pi)- ((pi)/8
+7(pi)/8 = (pi)- (pi)/8
+sin((pi)/8)-sin(3(pi)/8)+sin(5(pi)/8)-sin(7(pi)/8)
+=sin((pi)/8)-sin((pi)- 5(pi)/8)+sin(5(pi)/8)-sin((pi)- (pi)/8)
+=sin((pi)/8)-sin(5(pi)/8)+sin(5(pi)/8)-sin((pi)/8)
+(/r)=0
+c)
+Cos((pi)/5)=1+(rac)(5)/4
+déterminer les valeurs exactes (r)de Cos(6(pi)/5), sin((pi)/3) et cos(3(pi)/10)(/r)
+6(pi)/5 = 5(pi)+(pi)/5
+        = 5(pi)/5 +(pi)/5
+        = (pi)+(pi)/5
+(r)Cos(6(pi)/5)=Cos((pi)+(pi)/5)
+               =-Cos((pi)/5)
+               =-(1(rac)(5)/4)
+
+3(pi)/10=(pi)/2 -(pi)/5
+Cos(3(pi)/10)=cos((pi)/2 -(pi)/5)=(/r)sin((pi)/5)
+
+Cos(2019(pi)+x)=Cos((pi))=-cos(x)
+
+sin(2020(pi)+x)=cos(x)

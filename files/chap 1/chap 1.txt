@@ -1,0 +1,20 @@
+(r) Chapitre 1: Trinome du second degré
+1) Définition (/r)
+Toute fonction du trinôme f du second degré est de la forme: (r) |R |---->|R
+f:x|---> y=ax²+bx+c, a/=/0 (/r)
+Si a=0 f(x)=bx+c
+f(x)=mx+p
+
+(r)2) Forme canonique d'un trinôme du second degré. (/r)
+                                                                                __________________________
+Toute fonction trinôme du second degré f admet une (r)forme canonnique et se note |f(x)=a(x+(alpha))²+(betat)|, a/=/0 (/r)
+                                                                                __________________________
+(r)démonstration 1:
+Rappels:(/r) (a+b)²=a²+2ab+b²
+(a-b)²=a²-2ab+b²
+a²-b²=(a-b)(a+b)
+f(x)=ax²+bx+c, a/=/0
+f(x)=a(x²+b/a x+C/a=
+       {{{{{{
+    =a[x²+(r)2*b/2a x+(b/2a)²+(b/2a)²+c/a]
+    =(/r)a[(x+b/2a)²-(b/2a)²+c/a]
